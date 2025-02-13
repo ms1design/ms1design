@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ms1design&show_icons=true&locale=en&theme=dark&hide_border=true" alt="ms1design" />
 </span>
 <span>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms1design&layout=compact&langs_count=8&card_width=320&theme=radical" alt="ms1design" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms1design&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="ms1design" />
 </span>
